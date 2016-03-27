@@ -1,5 +1,5 @@
 {
-    "name": "persianyii2/yii2-rss",
+    "name": "persianyii2/yii-rss",
     "description": "crete rss uses by array or db query data",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","rss"],
